@@ -5,6 +5,8 @@
 <img src="http://funzoo.ru/uploads/posts/2009-11/1258648863_tn.jpg" height=200pt> <img src="https://novate.ru/files/u2/yozhiki1.jpg" height=200pt>
 </p>
 
+**Курс сдается через систему [anytask](https://anytask.org/course/534)**
+
 **Таблица с результатами (скоро будет)**
 
 На семинары и работу ассистентов можно оставить отзыв: [[анонимно без регистрации и смс](https://docs.google.com/forms/d/e/1FAIpQLSf_wnrm52RfnHkqZPbsWOpjzd9Uelwq5Jk0elZYGH2p-vQyaw/viewform)]
@@ -29,6 +31,6 @@
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
 | 5 сентября  | Семинар 1  | | | |
-| 12 сентября | Семинар 2  | Вводное занятие: <ul><li>Основные термины в машинном обучении</li><li>Этапы решения задачи анализа данных</li><li>Пример работы с данными и моделями в python и jupyter-notebook</li></ul> | [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture01-intro.pdf)<br> [Ноутбук с кодом с семинара]() <br> [Красивая презентация 1](https://github.com/esokolov/ml-minor-hse/blob/master/lectures-2019/lecture01-intro.pdf) <br> [Красивая презентация 2](https://github.com/esokolov/ml-minor-hse/blob/master/lectures-2019/lecture02-intro.pdf) | |
+| 12 сентября | Семинар 2  | Вводное занятие: <ul><li>Основные термины в машинном обучении</li><li>Этапы решения задачи анализа данных</li><li>Пример работы с данными и моделями в python и jupyter-notebook</li></ul> | [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture01-intro.pdf)<br> [Ноутбук с кодом с семинара](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019/blob/master/seminars/sem_02/Taxi.ipynb) <br> [Красивая презентация 1](https://github.com/esokolov/ml-minor-hse/blob/master/lectures-2019/lecture01-intro.pdf) <br> [Красивая презентация 2](https://github.com/esokolov/ml-minor-hse/blob/master/lectures-2019/lecture02-intro.pdf) | [ДЗ:Осень.Прак1]() |
 | 19 сентября | Семинар 3  | | | |
 | 26 сентября   | Семинар 4  | | |
