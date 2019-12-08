@@ -24,7 +24,8 @@
 1. В ходе семестра будет несколько теоретических проверочных работ, практических заданий и контестов.
 2. Для получения зачета нужно «закрыть» каждую теоретическую тему и решить каждое практическое задание хотя бы на 80%.
 3. Для допуска к экзамену необходимо получить зачет по семинарам.
-4. За выдающиеся успехи (85%+ от общего числа баллов) мы дарим вам +1 балл на экзамене!
+4. Для «закрытия» теоретической тему необходимо либо решить проверочную или теоретическое дз на 70% (без учета штрафа), либо, в противном случае, решить задачи по этой теме на зачете.
+5. За выдающиеся успехи (85%+ от общего числа баллов) мы дарим вам +1 балл на экзамене!
 
 ## Занятия
 
@@ -42,5 +43,5 @@
 | 7 ноября | Семинар 10  | <ul><li>Условная оптимизация и двойственные задачи</li><li>Теорема Куна-Таккера</li></ul> | [конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019/blob/master/lecture-notes/Sem10_kkt.pdf)| ¯\\\_(ツ)\_/¯ |
 | 14 ноября | Семинар 11  | <ul><li>Условная оптимизация</li><li>Ядра Мерсера</li></ul> | <ul><li>[конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019/blob/master/lecture-notes/Sem11_Kernels.pdf)</li><li>[записи про условную оптимизацию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019/blob/master/lecture-notes/Sem11_conditional_optimization.pdf)</li><li>[еще одна хорошая pdf](http://www.machinelearning.ru/wiki/images/7/7f/MOMO18_Seminar7.pdf)</li></ul>| ¯\\\_(ツ)\_/¯ |
 | 21 ноября | Семинар 12  | <ul><li>Решающие деревья</li><li>Критерии информативности</li></ul> | <ul><li>[конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem07-trees.pdf)</li><li>[показательный ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem07-trees.ipynb)</li></ul>| ¯\\\_(ツ)\_/¯ |
-| 28 ноября | Семинар 13  | Задачи на BVD | [конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem08-bvd.pdf)| ¯\\\_(ツ)\_/¯ |
+| 28 ноября | Семинар 13  | Задачи на BVD | [конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem08-bvd.pdf)| [ДЗ:Осень.Прак4](https://github.com/mmp-mmro-team/mmp_mmro_fall_2019/blob/master/homework-practice/homework-practice-04.ipynb) |
 
