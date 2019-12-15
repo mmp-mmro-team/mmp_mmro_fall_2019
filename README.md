@@ -7,7 +7,7 @@
 
 **Курс сдается через систему [anytask](https://anytask.org/course/534)**
 
-**Таблица с результатами (скоро будет)**
+**[Таблица с результатами](https://docs.google.com/spreadsheets/d/1qdf96EyyWikY1EvDYfr2gds_Vb6GsF8aWQy7JsMvHbs/edit?usp=sharing)**
 
 На семинары и работу ассистентов можно оставить отзыв: [[анонимно без регистрации и смс](https://docs.google.com/forms/d/e/1FAIpQLSf_wnrm52RfnHkqZPbsWOpjzd9Uelwq5Jk0elZYGH2p-vQyaw/viewform)]
 
